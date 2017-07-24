@@ -1,2 +1,2 @@
 def hello(name='serverless world'):
-    return "Hello {}".format(name)
+    return "Hello {}\n".format(name)
